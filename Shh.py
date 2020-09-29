@@ -1,6 +1,6 @@
 # GUN#!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Tech Qaiser
+#The Credit For This Code Goes To Tech somi
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -605,7 +605,7 @@ def login1():
 		jalan('  \033[1;96mNote Do Not Use Your Personal Account' )
 		jalan(' \033[1;91mCreate New Account For Login Safely' )
 		print "\033[1;94mNew Commands Use It For Cloning"
-		print "\033[1;93m Login With Token
+		print "\033[1;93m Login With Token"
 		print('	' )
 		id = raw_input('\x1b[1;94mFacebook Email/Pass : \x1b[1;94m')
 		pwd = raw_input('\x1b[1;94mPassword  \x1b[1;94m')
